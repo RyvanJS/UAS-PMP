@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Django files
+db.sqlite3
+media/
+staticfiles/
+
+# OS / editor / Git
+*.log
+*.swp
+.DS_Store
+.idea/
+.vscode/
+.git/
+.gitignore
+
+# Docker / build artifacts
+*.tar
+*.bak
+*.tmp
